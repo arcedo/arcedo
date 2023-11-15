@@ -10,7 +10,6 @@ A developer & student working to be better.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arcedo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arcedo&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcedo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arcedo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
