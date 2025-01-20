@@ -1,6 +1,6 @@
 **Hello, I'm** \
 **Marc Arcedo,** \
-**A web Developer.**
+**A Full Stack Developer.**
 
 With over a year of experience. Based in Barcelona, Spain, \
 I'm passionate about both dev and design. \
