@@ -1,5 +1,5 @@
-**Hello, I'm** \
-**Marc Arcedo,** \
+**Hello,** \
+**I'm Marc Arcedo,** \
 **A Full Stack Developer.**
 
 With over a year of experience. Based in Barcelona, Spain, \
