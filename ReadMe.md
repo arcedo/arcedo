@@ -1,9 +1,1 @@
-**Hello,** \
-**I'm Marc Arcedo,** \
-**A Software Developer.**
-
-With a few years of experience. Based in Barcelona, Spain, \
-I'm passionate about both dev and design. \
-I’m focusing on backend dev, exploring \
-better, more efficient \
-ways to code.
+Hi, if you want to know more about me take a look at my [portfolio](https://arcedo.dev).
